@@ -283,7 +283,7 @@
   background-position: bottom;
 }
 .home-text {
-  color: #ffffff;
+  color: rgb(255, 255, 255);
   height: auto;
   font-size: 3rem;
   max-width: auto;
